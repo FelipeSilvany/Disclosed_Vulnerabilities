@@ -1,7 +1,7 @@
-<p>Desde 2021, atuo em plataformas de Bug Bounty, realizando testes de intrusão e análises ofensivas que simulam técnicas, táticas e estratégias (TTPs) utilizadas em ambientes corporativos reais.
-Essa prática contínua me permite exercitar e aprimorar habilidades de exploração em infraestrutura moderna, com endpoints de segurança atualizados e cenários de alta complexidade.</p>
+<p>Apesar do aproximados 10 anos dedicados à Offensive Security, Pentests e outros exercícios de redteam, em 2021 passei a atuar também em plataformas de Bug Bounty, realizando testes de intrusão e análises ofensivas que simulam técnicas, táticas e estratégias (TTPs) utilizadas em ambientes corporativos reais. Desde então, me mantive ranqueado em todas plataformas brasileiras entre os top 05 principais hackers, onde recentemente assumi a primeira posição (top 01) na plataforma Hunters Pay. 🇧🇷 </p><p>Essa prática contínua me permite exercitar e aprimorar habilidades de exploração em infraestrutura moderna, com endpoints de segurança atualizados e cenários de alta complexidade.</p>
 <br>
 <p><b>Resultados Relevantes</b></p>
+<p>▪️Eleito Top 01 Brasil pela plataforma Hunters Pay 🇧🇷</p>
 <p>▪️109 vulnerabilidades recompensadas</p>
 <p>▪️26 Cross-Site Scripting (XSS) recompensados</p>
 <p>▪️04 SQL Injection (incluindo um dump all de toda base da aplicação)</p>
