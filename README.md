@@ -7,7 +7,47 @@
 <p>▪️04 SQL Injection (incluindo um dump all de toda base da aplicação)</p>
 <p>▪️04 Bypass de Endpoints de proteção</p>
 <br>
-<p></p>Entre as vulnerabilidades reportadas nas plataformas, destacam-se ainda:</p>
+<p><b>Vulnerabilidades recompensadas em:</b></p>
+
+<table>
+  <tr>
+    <td>⭐ TIM</td>
+    <td>⭐ Smartfit</td>
+    <td>⭐ Enjoei</td>
+    <td>⭐ Banco Master</td>
+  </tr>
+  <tr>
+    <td>⭐ Webmotors</td>
+    <td>⭐ Bughunt</td>
+    <td>⭐ Bitcoin Trade</td>
+    <td>⭐ Mega Ip Connect</td>
+  </tr>
+  <tr>
+    <td>⭐ Suzanonet</td>
+    <td>⭐ Starkbank</td>
+    <td>⭐ Ebanx</td>
+    <td>⭐ Banco BMG</td>
+  </tr>
+  <tr>
+    <td>⭐ Estrelabet</td>
+    <td>⭐ Banco Cora</td>
+    <td>⭐ AstronMembers</td>
+    <td>⭐ Lime</td>
+  </tr>
+  <tr>
+    <td>⭐ inVision</td>
+    <td>⭐ Sun Express</td>
+    <td>⭐ Coino Crypto</td>
+    <td>⭐ Beymen Group</td>
+  </tr>
+  <tr>
+    <td>⭐ Ödeal</td>
+    <td>⭐ Get Contact</td>
+    <td>⭐ Papara Authentication API</td>
+    <td></td>
+  </tr>
+</table>
+<p></p><br>Entre as vulnerabilidades reportadas nas plataformas, destacam-se ainda:</p>
 <br>
 
 <p>💉 Host Header Injection</p>
